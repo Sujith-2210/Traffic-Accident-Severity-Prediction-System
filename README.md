@@ -206,8 +206,7 @@ Road_Type_City Road           1.73%
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd Traffic
+git clone https://github.com/Sujith-2210/Traffic-Accident-Severity-Prediction-System.git
 ```
 
 ### 2. Install Dependencies
