@@ -1,0 +1,30 @@
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+
+# Machine Learning Models
+xgboost>=1.6.0
+catboost>=1.1.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.10.0
+
+# Web Application
+streamlit>=1.15.0
+
+# Model Persistence
+joblib>=1.2.0
+
+# Jupyter Notebook (optional)
+jupyter>=1.0.0
+ipykernel>=6.15.0
+
+# Utility Libraries
+warnings
+logging
+typing
+os
+sys
