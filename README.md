@@ -458,15 +458,6 @@ XGBClassifier(
 
 ---
 
-## 📞 Contact & Support
-
-For questions, suggestions, or collaborations:
-
-- **GitHub Issues**: [Report bugs or request features](https://github.com/your-repo/issues)
-- **Email**: your-email@example.com
-- **Project Lead**: Traffic Safety AI Team
-
----
 
 ## ⚠️ Important Disclaimer
 
